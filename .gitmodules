@@ -1,0 +1,6 @@
+[submodule "CE3101-CoTEC-API"]
+	path = CE3101-CoTEC-API
+	url = https://github.com/estalvgs1999/CE3101-CoTEC-API
+[submodule "CE3101-CoTEC-Map"]
+	path = CE3101-CoTEC-Map
+	url = https://github.com/estalvgs1999/CE3101-CoTEC-Map
