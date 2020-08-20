@@ -34,7 +34,31 @@ Give examples
 
 ## Deployment 📤
 
-Add additional notes about how to deploy this on a live system
+* **CotecMap - Web Application**
+```
+// Dev mode
+$ npm install
+$ npm fund
+$ ng serve -o
+
+// Production
+$ ng build --prod
+$ ng deploy
+```
+* **CotecDB - Database**
+* Create a SQL database on your local server or in some cloud service.
+* Run the DDL [file](file.sql) for the creation of the database tables.
+* Create a user for the backend application and a password, such as access credentials to the server and the database.
+
+* **CotecAPI - Backend**
+```
+// Dev mode
+$ dotnet run
+
+// Production
+$ dotnet build
+$ dotnet publish -c Release
+```
 
 ## Built With
 
@@ -99,7 +123,7 @@ This project has an excellent development group formed by ITCR computer engineer
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Whitetail-CR/CoTEC/blob/master/LICENSE) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/Whitetail-CR/CoTEC/blob/master/LICENSE) file for details
 
 ***
 <p align="center">
