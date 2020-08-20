@@ -18,19 +18,17 @@
 <p align=justify>
   <b>CoTEC Map</b> is a suite of virus case monitoring and hospital management applications. The web application provides a view for monitoring cases worldwide, presenting a specific breakdown of each country, it also provides the hospital administration system that allows managing patients and their recent contacts.
 </p>
-
-## Getting Started 🚀
-
-<p align=justify>Prerequisites:You must have <a href="https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git">Git</a>
- installed on your console.</p>
  
 ### Prerequisites 📋
 
 _To run this program you must have the following dependencies installed_
 
-```
-Give examples
-```
+* Nodejs
+* NPM
+* Angular 7
+* Dotnet Core 3.1
+* Entity Framework
+* Android SDK +3.6
 
 ## Deployment 📤
 
