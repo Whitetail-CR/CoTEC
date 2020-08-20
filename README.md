@@ -34,7 +34,7 @@ Give examples
 
 ## Deployment 📤
 
-* **CotecMap - Web Application**
+### CotecMap - Web Application
 ```
 // Dev mode
 $ npm install
@@ -45,12 +45,20 @@ $ ng serve -o
 $ ng build --prod
 $ ng deploy
 ```
-* **CotecDB - Database**
+### CotecDB - Database
 * Create a SQL database on your local server or in some cloud service.
 * Run the DDL [file](file.sql) for the creation of the database tables.
 * Create a user for the backend application and a password, such as access credentials to the server and the database.
 
-* **CotecAPI - Backend**
+### CotecAPI - Backend
+First you must enter the access credentials to the server and database in the file [appsetting.json] (https://github.com/estalvgs1999/CE3101-CoTEC-API/blob/0b48dfc09e3bc52723c31e80a6dbab533abe1628/CotecAPI/appsettings.json)
+```
+"ConnectionStrings":
+  {
+    "CotecConnection": "Server=<YOUR_SERVER_IP>;Initial Catalog=COTEC_DB; User=<USERNAME>; Password=<PASSWORD>;"
+  }
+```
+Then, open a terminate in the CotecAPI directory and run:
 ```
 // Dev mode
 $ dotnet run
