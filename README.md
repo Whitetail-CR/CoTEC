@@ -16,50 +16,17 @@
 ## Description
 "CoTEC-2020" tracking web app built with Angular, Ionic, .NET Core MVC API, Entity Framework Core &amp; SQL Server Database.
 
-### Prerequisites
+## Getting Started 🚀
 
-What things you need to install the software and how to install them
+<p align=justify>Prerequisites:You must have <a href="https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git">Git</a>
+ installed on your console.</p>
+ 
+### Prerequisites 📋
+
+_To run this program you must have the following dependencies installed_
 
 ```
 Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
 ```
 
 ## Deployment
@@ -68,9 +35,44 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+For the development of this project we use the following resources
+
+<table>
+  <tr>
+    <td>
+      <p align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="100"></p>
+    </td>
+    <td>
+      <p align=center><img src="https://www.indogic.in/images/development/asp.net-border-526x335.png" width="150"></p>
+    </td>
+    <td>
+      <p align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" width="100"></p>
+    </td>
+    <td>
+      <p align=center><img src="https://allvectorlogo.com/img/2017/02/microsoft-sql-server-logo.png" width="220"></p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <p align=center><a href="https://www.dabeaz.com/ply/"><b>Angular</b></a>
+        </br>Web development Framework</p>
+    </td>
+    <td>
+      <p align=center><a href="https://www.qt.io/"><b>ASP.NET MVC</b></a>
+</br>Backend Framework</p>
+    </td>
+    <td>
+      <p align=center>
+        <a href="https://processing.org/"><b>Andriod SDK</b></a>
+</br>Mobile app development</p>
+    </td>
+    <td>
+      <p align=center> <a href="https://www.python.org//"><b>SQL Server</b></a>
+        </br>Database</p>
+    </td>
+  </tr>
+</table>
 
 ## Contributing
 
@@ -80,14 +82,23 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 For the versions available, see the [releases on this repository](https://github.com/Whitetail-CR/CoTEC/releases). 
 
+## Docs 📖
+
+You can find much more about how to use this project in our [documentation section](https://github.com/estalvgs1999/CE3104-Fun-Skills/tree/master/docs)
+
 ## Authors
+
+This project has an excellent development group formed by ITCR computer engineering students
 
 * **Esteban Alvarado** - *Backend & DBA* - [@estalvgs1999](https://github.com/estalvgs1999)
 * **Bertha Brenes** - *Mobile Application* - [@BerthaBrenes](https://github.com/BerthaBrenes)
 * **Olman Castro** - *Frontend Development* - [@Kstro379](https://github.com/Kstro379)
 * **Randall Mendez** - *Frontend Development* - [@Hack998](https://github.com/Hack998)
 
-## License
+<p align="center"> Project developed at the <b>Technological Institute of Costa Rica</b> | 2020 🄯</p>
+
+
+## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Whitetail-CR/CoTEC/blob/master/LICENSE) file for details
 
