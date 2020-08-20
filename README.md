@@ -34,14 +34,14 @@ _To run this program you must have the following dependencies installed_
 
 ### CotecMap - Web Application
 ```PowerShell
-// Dev mode
-$ npm install
-$ npm fund
-$ ng serve -o
+# Dev mode
+> npm install
+> npm fund
+> ng serve -o
 
-// Production
-$ ng build --prod
-$ ng deploy
+# Production
+> ng build --prod
+> ng deploy
 ```
 ### CotecDB - Database
 * Create a SQL database on your local server or in some cloud service.
@@ -59,12 +59,12 @@ First you must enter the access credentials to the server and database in the fi
 ```
 Then, open a terminate in the CotecAPI directory and run:
 ```PowerShell
-// Dev mode
-$ dotnet run
+# Dev mode
+> dotnet run
 
-// Production
-$ dotnet build
-$ dotnet publish -c Release
+# Production
+> dotnet build
+> dotnet publish -c Release
 ```
 
 ## Built With
