@@ -35,7 +35,7 @@ Give examples
 ## Deployment 📤
 
 ### CotecMap - Web Application
-```
+```PowerShell
 // Dev mode
 $ npm install
 $ npm fund
@@ -51,15 +51,16 @@ $ ng deploy
 * Create a user for the backend application and a password, such as access credentials to the server and the database.
 
 ### CotecAPI - Backend
-First you must enter the access credentials to the server and database in the file [appsetting.json] (https://github.com/estalvgs1999/CE3101-CoTEC-API/blob/0b48dfc09e3bc52723c31e80a6dbab533abe1628/CotecAPI/appsettings.json)
-```
+First you must enter the access credentials to the server and database in the file [appsetting.json](https://github.com/estalvgs1999/CE3101-CoTEC-API/blob/0b48dfc09e3bc52723c31e80a6dbab533abe1628/CotecAPI/appsettings.json)
+
+```JSON5
 "ConnectionStrings":
   {
     "CotecConnection": "Server=<YOUR_SERVER_IP>;Initial Catalog=COTEC_DB; User=<USERNAME>; Password=<PASSWORD>;"
   }
 ```
 Then, open a terminate in the CotecAPI directory and run:
-```
+```PowerShell
 // Dev mode
 $ dotnet run
 
