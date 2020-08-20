@@ -1,5 +1,5 @@
 # CE3101 - CoTEC-20
-<p align=justify>"CoTEC-2020" tracking web app built with Angular, Ionic, .NET Core MVC API, Entity Framework Core &amp; SQL Server Database.</p>
+<p align=justify>CoTEC-2020 Virus tracking web app built with Angular, Ionic, .NET Core MVC API, Entity Framework Core &amp; SQL Server Database.</p>
 <p align=center><img src="https://res.cloudinary.com/estalvgs1999/image/upload/v1597896745/Whitetail/CoTEC/app_logo.png" ></p>
 
 ***
@@ -14,7 +14,10 @@
 </p>
 
 ## Description
-"CoTEC-2020" tracking web app built with Angular, Ionic, .NET Core MVC API, Entity Framework Core &amp; SQL Server Database.
+
+<p align=justify>
+  <b>CoTEC Map</b> is a suite of virus case monitoring and hospital management applications. The web application provides a view for monitoring cases worldwide, presenting a specific breakdown of each country, it also provides the hospital administration system that allows managing patients and their recent contacts.
+</p>
 
 ## Getting Started 🚀
 
@@ -29,7 +32,7 @@ _To run this program you must have the following dependencies installed_
 Give examples
 ```
 
-## Deployment
+## Deployment 📤
 
 Add additional notes about how to deploy this on a live system
 
@@ -37,7 +40,7 @@ Add additional notes about how to deploy this on a live system
 
 For the development of this project we use the following resources
 
-<table>
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <td>
       <p align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="100"></p>
@@ -55,30 +58,26 @@ For the development of this project we use the following resources
   
   <tr>
     <td>
-      <p align=center><a href="https://www.dabeaz.com/ply/"><b>Angular</b></a>
+      <p align=center><a href="https://www.angular.io"><b>Angular</b></a>
         </br>Web development Framework</p>
     </td>
     <td>
-      <p align=center><a href="https://www.qt.io/"><b>ASP.NET MVC</b></a>
+      <p align=center><a href="https://dotnet.microsoft.com/apps/aspnet"><b>ASP.NET MVC</b></a>
 </br>Backend Framework</p>
     </td>
     <td>
       <p align=center>
-        <a href="https://processing.org/"><b>Andriod SDK</b></a>
+        <a href="https://developer.android.com/studio"><b>Andriod SDK</b></a>
 </br>Mobile app development</p>
     </td>
     <td>
-      <p align=center> <a href="https://www.python.org//"><b>SQL Server</b></a>
+      <p align=center> <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads"><b>SQL Server</b></a>
         </br>Database</p>
     </td>
   </tr>
 </table>
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
+## Versioning 🗃
 
 For the versions available, see the [releases on this repository](https://github.com/Whitetail-CR/CoTEC/releases). 
 
