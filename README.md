@@ -19,11 +19,11 @@
   <b>CoTEC Map</b> is a suite of virus case monitoring and hospital management applications. The web application provides a view for monitoring cases worldwide, presenting a specific breakdown of each country, it also provides the hospital administration system that allows managing patients and their recent contacts.
 </p>
 
+<p align="justify">
+      <img src="https://res.cloudinary.com/estalvgs1999/image/upload/v1598236668/Whitetail/CoTEC/home_qaqggg.png" >
+</p>
 <table>
   <tr>
-    <td>
-      <img src="https://res.cloudinary.com/estalvgs1999/image/upload/v1598236668/Whitetail/CoTEC/home_qaqggg.png" width="400">
-    </td>
     <td>
       <img src="https://res.cloudinary.com/estalvgs1999/image/upload/v1598236676/Whitetail/CoTEC/Paciente_sxhudl.png" width="400">
     </td>
