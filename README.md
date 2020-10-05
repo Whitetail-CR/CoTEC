@@ -83,7 +83,7 @@ Then, open a terminate in the CotecAPI directory and run:
 
 ## Built With
 
-For the development of this project we use the following resources
+For the development of this project we use the following technologies
 
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
